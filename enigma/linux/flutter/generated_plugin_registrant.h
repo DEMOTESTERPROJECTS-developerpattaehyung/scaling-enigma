@@ -12,4 +12,5 @@
 // Registers Flutter plugins.
 void fl_register_plugins(FlPluginRegistry* registry);
 // Generator by @ Patiencewantae123
+@Patweon 
 #endif  // GENERATED_PLUGIN_REGISTRANT_
